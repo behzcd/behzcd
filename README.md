@@ -1,6 +1,5 @@
 
 ![webstyle's github stats](https://github-readme-stats.vercel.app/api?username=behzcd&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=behzcd&layout=compact)
 ![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
 
 <p align="left">
